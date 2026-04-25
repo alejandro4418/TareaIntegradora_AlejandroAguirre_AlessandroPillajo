@@ -35,7 +35,7 @@ Sistema orientado a objetos para administrar distintos tipos de cuentas bancaria
 - Cálculo de intereses
 - Reporte general del banco
 # Instrucciones para ejecutar el proyecto
-## Clonar el repositorio con git clone y abrirlo en un ID como intellij IDEA
+## Clonar el repositorio con git clone y abrir cada ejercicio por separado en un ID como intellij IDEA
 # Distribución de aportes o responsabilidades
 ## Integrante 1
 -Responsable del desarrollo del Ejercicio 1: Sistema de Subsidio de Gasolina, incluyendo:
